@@ -102,9 +102,6 @@ Select "Terminate" and click "Change State"
 Finally The EC2 instance also terminated
 ![image](https://github.com/Ravi-352/tindog/assets/91112573/3f8bf6fe-4d3a-4ab9-98e5-7ea6d0505c43)
 
-Finally The EC2 instance also terminated
-![image](https://github.com/Ravi-352/tindog/assets/91112573/e78834ef-99e5-4a6c-b1e8-2f5de1f2609e)
-
 
 
 
