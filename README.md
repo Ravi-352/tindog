@@ -87,20 +87,10 @@ Here are some screenshots of how the Webpage looks: It includes "About", "downlo
 ![image](https://github.com/Ravi-352/tindog/assets/91112573/1fde1c8d-3d9e-4a81-b2f7-ff6dd5eb68dd)
 
 Anyways, to save on the free quota and use it purposefully, we need to tear down /terminate the existing instance.
-
 Go to EC2 instance dashboard and click on "Actions"; Select "Manage instance state"
 
 Select "Terminate" and click "Change State"
 ![image](https://github.com/Ravi-352/tindog/assets/91112573/33b3bfda-19ba-4f1d-98e2-c1fa85bb9b34)
-
-
-Finally The EC2 instance also terminated
-![image](https://github.com/Ravi-352/tindog/assets/91112573/3f8bf6fe-4d3a-4ab9-98e5-7ea6d0505c43)
-
-
-
-
-
 
 
 
