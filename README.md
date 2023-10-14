@@ -82,6 +82,31 @@ Start the httpd instance and try accessing the webpage using public IP address (
 ![image](https://github.com/Ravi-352/tindog/assets/91112573/0595e703-a475-4dea-bdac-764dae75abcc)
 
 
+Here are some screenshots of how the Webpage looks: It includes "About", "download", "testimonial", "Pricing" and "contact" sections:
+![image](https://github.com/Ravi-352/tindog/assets/91112573/15087adc-e6a5-4fe5-92b0-24ed09d3d723)
+![image](https://github.com/Ravi-352/tindog/assets/91112573/1fde1c8d-3d9e-4a81-b2f7-ff6dd5eb68dd)
+
+![image](https://github.com/Ravi-352/tindog/assets/91112573/a28e19a3-9a1a-47f0-af91-e12c6f0ed730)
+![image](https://github.com/Ravi-352/tindog/assets/91112573/7f712e30-8f7c-469e-a160-8074def8c491)
+
+Anyways, to save on the free quota and use it purposefully, we need to tear down /terminate the existing instance.
+
+Go to EC2 instance dashboard and click on "Actions"; Select "Manage instance state"
+![image](https://github.com/Ravi-352/tindog/assets/91112573/f7615124-eb32-44b1-b707-e96359ba75a9)
+
+
+Select "Terminate" and click "Change State"
+![image](https://github.com/Ravi-352/tindog/assets/91112573/33b3bfda-19ba-4f1d-98e2-c1fa85bb9b34)
+
+
+Finally The EC2 instance also terminated
+![image](https://github.com/Ravi-352/tindog/assets/91112573/3f8bf6fe-4d3a-4ab9-98e5-7ea6d0505c43)
+
+Finally The EC2 instance also terminated
+![image](https://github.com/Ravi-352/tindog/assets/91112573/e78834ef-99e5-4a6c-b1e8-2f5de1f2609e)
+
+
+
 
 
 
